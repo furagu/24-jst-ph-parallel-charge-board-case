@@ -3,7 +3,7 @@ $fn=100;
 include <Chamfers-for-OpenSCAD/Chamfer.scad>;
 
 main(
-    board_size   = [124.7, 88.7, 1.7],
+    board_size   = [125.2, 88.7, 1.7],
     thickness    = 1.5,
     grip         = 2.5,
     bevel        = 0.5,
